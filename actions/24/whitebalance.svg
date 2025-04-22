@@ -5,7 +5,7 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="whitebalance" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="200" transform="translate(4.000000, 4.000000)" fill="#303030" fill-rule="nonzero">
+        <g id="200" transform="translate(4.fafafa, 4.fafafa)" fill="#fafafa" fill-rule="nonzero">
             <polygon id="Path" points="7.5 0 7.5 1.8125 8.5 1.8125 8.5 0"></polygon>
             <polygon id="Path" points="2.6875 1.96875 1.96875 2.6875 3.25 4 3.96875 3.25"></polygon>
             <polygon id="Path" points="13.310547 1.96875 12.03125 3.25 12.75 4 14.03125 2.6875"></polygon>

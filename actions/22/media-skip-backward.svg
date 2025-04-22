@@ -5,7 +5,7 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="media-skip-backward" stroke="#303030">
+        <g id="media-skip-backward" stroke="#fafafa">
             <polygon id="Triangle" transform="translate(6.000000, 11.000000) scale(-1, 1) translate(-6.000000, -11.000000) " points="2.5 5 9.5 11 2.5 17"></polygon>
             <polygon id="Triangle" transform="translate(14.000000, 11.000000) scale(-1, 1) translate(-14.000000, -11.000000) " points="10.5 5 17.5 11 10.5 17"></polygon>
         </g>

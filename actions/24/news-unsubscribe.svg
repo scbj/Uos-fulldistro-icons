@@ -5,7 +5,7 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="news-unsubscribe" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="330" transform="translate(4.000000, 5.000000)" fill="#303030" fill-rule="nonzero">
+        <g id="330" transform="translate(4.fafafa, 5.fafafa)" fill="#fafafa" fill-rule="nonzero">
             <path d="M0,-1.98037116e-14 C5.333,-0.002 10.667,0.0059063 16,0.0039062 L16,8 L9,8 L9,11 L10,11 L10,12 L1,12 L1,13 L10,13 L10,14 C6.5259,13.998 3.4739,13.999 0,14 L0,-1.98037116e-14 Z M1,1 L1,7 L15,7 L15,1 L1,1 Z M1,7 L1,11 L8,11 L8,7 L1,7 Z" id="Combined-Shape"></path>
             <path d="M6,2 L6,8.9960938 L2,9 L2,2.0039062 L6,2 Z M3,3 L3,8 L5,8 L5,3 L3,3 Z" id="Combined-Shape"></path>
             <polygon id="Path" points="9 2 15 2 15 3 9 3"></polygon>

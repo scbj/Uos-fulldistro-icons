@@ -5,7 +5,7 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="zoom-fit-drawing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="145" transform="translate(6.000000, 6.000000)" fill="#303030" fill-rule="nonzero">
+        <g id="145" transform="translate(6.fafafa, 6.fafafa)" fill="#fafafa" fill-rule="nonzero">
             <path d="M4,4 L4,6 L6,6 L6,8 L8,8 L8,6 L6,6 L6,4 L4,4 Z M3,3 L7,3 L7,5 L9,5 L9,9 L5,9 L5,7 L3,7 L3,3 Z" id="Path"></path>
             <g id="57">
                 <path d="M1,-8.52638272e-14 C0.5248,-8.52638272e-14 -6.50521303e-19,0.5488901 -6.50521303e-19,1 L-6.50521303e-19,5 L1,5 L1,1 L5,1 L5,-8.52638272e-14 L1,-8.52638272e-14 Z" id="Path"></path>

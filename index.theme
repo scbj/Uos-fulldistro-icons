@@ -1,7 +1,10 @@
+# AUTOR
+# - zayronxio <adolfo@librepixels.com>
+
 [Icon Theme]
-Name=Uos 
+Name=Uos-Dark
 Comment=Default icon theme for deepin
-Inherits=breeze,gnome,hicolor
+Inherits=Mkos-Big-Sur,breeze,gnome,hicolor
 
 Example=x-directory-normal
 

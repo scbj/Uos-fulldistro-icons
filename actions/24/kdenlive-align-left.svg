@@ -5,7 +5,7 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="kdenlive-align-left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="210" transform="translate(8.000000, 8.000000)" fill="#303030" fill-rule="nonzero">
+        <g id="210" transform="translate(8.fafafa, 8.fafafa)" fill="#fafafa" fill-rule="nonzero">
             <polygon id="Path" points="0 0 0 8 1 8 1 4 1 0"></polygon>
             <path d="M7,6.27682032 L7,1.72317968 L3.01556444,4 L7,6.27682032 Z M1,4 L8,0 L8,8 L1,4 Z" id="Path"></path>
         </g>

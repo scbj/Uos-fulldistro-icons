@@ -5,7 +5,7 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="media-seek-backward" stroke="#303030">
+        <g id="media-seek-backward" stroke="#fafafa">
             <polygon id="Triangle" transform="translate(11.500000, 11.000000) scale(-1, 1) translate(-11.500000, -11.000000) " points="16.5 11 6.5 17 6.5 5"></polygon>
             <path d="M5.5,18 L5.5,4" id="Path-10" transform="translate(5.500000, 11.000000) scale(-1, 1) translate(-5.500000, -11.000000) "></path>
         </g>
